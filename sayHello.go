@@ -6,7 +6,7 @@ package golangsayhello
 
 // major upgrade
 func SayHello(nama string) string {
-	return "Hello World" + nama
+	return "Hello World " + nama
 }
 
 /*
